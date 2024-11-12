@@ -1,13 +1,7 @@
 {
     "models": [
-        "Potion-Maker/Pio",
-        "Potion-Maker/Tia",
-        "bilibili-live/22",
-        "bilibili-live/33",
-        [
-            "ShizukuTalk/shizuku-48",
-            "ShizukuTalk/shizuku-pajama"
-        ],
+        "bilibili/22",
+        "bilibili/33",
         [
             "HyperdimensionNeptunia/neptune_classic",
             "HyperdimensionNeptunia/nepnep",
@@ -24,23 +18,40 @@
             "HyperdimensionNeptunia/vert_classic",
             "HyperdimensionNeptunia/vert_normal",
             "HyperdimensionNeptunia/vert_swimwear",
-            "HyperdimensionNeptunia/nepgear",
-            "HyperdimensionNeptunia/nepgear_extra",
-            "HyperdimensionNeptunia/nepgearswim",
             "HyperdimensionNeptunia/histoire",
             "HyperdimensionNeptunia/histoirenohover"
         ],
-        "KantaiCollection/murakumo",
-        "kesshouban"
+        [
+            "kesshouban/normal",
+            "kesshouban/obstacle"
+        ],
+        "Kobayaxi",
+        [
+            "girls-frontline/AN94-1/normal",
+            "girls-frontline/AN94-1/destroy"
+        ],
+        [
+            "girls-frontline/AN94-2/normal",
+            "girls-frontline/AN94-2/destroy"
+        ],
+        [
+            "girls-frontline/HK416-1/normal",
+            "girls-frontline/HK416-1/destroy"
+        ],
+        [
+            "girls-frontline/Kar98k/normal",
+            "girls-frontline/Kar98k/destroy"
+        ]
     ],
     "messages": [
-        "来自 Potion Maker 的 Pio 酱 ~",
-        "来自 Potion Maker 的 Tia 酱 ~",
         "来自 Bilibili Live 的 22 哦 ~",
         "来自 Bilibili Live 的 33 的说",
-        "Shizuku Talk ！这里是 Shizuku ~",
         "Nep! Nep! 超次元游戏：海王星 系列",
-        "艦隊これくしょん / 叢雲(むらくも)",
-        "あのね、あのね、トラブルで、工事が遅れてるの～"
+        "あのね、あのね、トラブルで、工事が遅れてるの～",
+        "マジやばくね",
+        "AN94-1",
+        "AN94-2",
+        "HK416-1",
+        "Kar98k"
     ]
 }
