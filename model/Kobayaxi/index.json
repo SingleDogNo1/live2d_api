@@ -6,7 +6,8 @@
 	],
 	"layout": {
 		"center_x": 0,
-		"center_y": -0.08
+		"center_y": -0.16,
+		"width": 1.7
 	},
 	"physics": "physics.json",
 	"pose": "pose.json",
