@@ -26,17 +26,10 @@
             "kesshouban/obstacle"
         ],
         "Kobayaxi",
+
         [
-            "girls-frontline/AN94-1/normal",
-            "girls-frontline/AN94-1/destroy"
-        ],
-        [
-            "girls-frontline/AN94-2/normal",
-            "girls-frontline/AN94-2/destroy"
-        ],
-        [
-            "girls-frontline/HK416-1/normal",
-            "girls-frontline/HK416-1/destroy"
+            "girls-frontline/HK416/normal",
+            "girls-frontline/HK416/destroy"
         ],
         [
             "girls-frontline/Kar98k/normal",
@@ -49,9 +42,7 @@
         "Nep! Nep! 超次元游戏：海王星 系列",
         "あのね、あのね、トラブルで、工事が遅れてるの～",
         "マジやばくね",
-        "AN94-1",
-        "AN94-2",
-        "HK416-1",
+        "HK416",
         "Kar98k"
     ]
 }
