@@ -26,7 +26,6 @@
             "kesshouban/obstacle"
         ],
         "Kobayaxi",
-
         [
             "girls-frontline/HK416/normal",
             "girls-frontline/HK416/destroy"
@@ -37,12 +36,12 @@
         ]
     ],
     "messages": [
-        "来自 Bilibili Live 的 22 哦 ~",
+        "来自 Bilibili Live 的 22 的说",
         "来自 Bilibili Live 的 33 的说",
         "Nep! Nep! 超次元游戏：海王星 系列",
         "あのね、あのね、トラブルで、工事が遅れてるの～",
         "マジやばくね",
-        "HK416",
-        "Kar98k"
+        "您就是指挥官吗？HK416...，请记住这个名字吧，这个...与众不同的名字。",
+        "毛瑟98K为您效劳。让我来为您扫除前方的障碍吧。"
     ]
 }
